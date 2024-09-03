@@ -9,7 +9,7 @@
         I'm Michael. A junior at Swarthmore College. I am a full stack developer, focused in backend. I enjoy creative problem solving and system design.<br>
         Feel free to reach out! Open to collaborating on project - Software, Games, Mobile Apps...<br>
     </i><br>
-
+</p>
   <div id="badges">
     <a href="https://www.linkedin.com/in/andrewhenin/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,7 +22,7 @@
     <img src="https://komarev.com/ghpvc/?username=Michael-Lu-DeerofBlue"/>
   </div>
 </div>
-</p>
+
 
 ## Languages
 <div style="display:flex;flex-direction:row;">
