@@ -6,7 +6,8 @@
   <p align="center">
     <b>Welcome to my GitHub page!</b><br><br>
     <i>
-        I'm Michael. A junior at Swarthmore College. I am a full stack developer, focused in backend. I enjoy creative problem solving and system design.<br>
+        I'm Michael. A junior at Swarthmore College. I am a full stack developer, focused in backend.<br>
+      I enjoy creative problem solving and system design.<br>
         Feel free to reach out! Open to collaborating on project - Software, Games, Mobile Apps...<br>
     </i><br>
 </p>
