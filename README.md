@@ -10,7 +10,7 @@
       I am a full stack developer, focused in backend. I enjoy creative problem solving and system design.<br>
         Feel free to reach out! Open to collaborating on project - Software, Games, Mobile Apps...<br>
     </i><br>
-    <img src="https://giphy.com/embed/1FbU0sArGktaGGDe99" width="250px"/>
+    <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1FbU0sArGktaGGDe99" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
   </p>
   <div id="badges">
     <a href="https://www.linkedin.com/in/michael-lu-1529a7260/" target="_blank">
