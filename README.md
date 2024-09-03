@@ -1,16 +1,16 @@
 <div id="header" align="center">
   <h1>
-    Hey there!
+    Hi there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <p align="center">
     <b>Welcome to my GitHub page!</b><br><br>
     <i>
-        I'm Michael. A junior at Swarthmore College. <br>
+        I'm Michael, a junior at Swarthmore College, visting University of Oxford in 2024 <br>
       I am a full stack developer, focused in backend. I enjoy creative problem solving and system design.<br>
         Feel free to reach out! Open to collaborating on project - Software, Games, Mobile Apps...<br>
     </i><br>
-    <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1FbU0sArGktaGGDe99" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+    <img src="https://media.giphy.com/media/1FbU0sArGktaGGDe99/giphy.gif" width="250px"/>
   </p>
   <div id="badges">
     <a href="https://www.linkedin.com/in/michael-lu-1529a7260/" target="_blank">
@@ -59,8 +59,7 @@
 ## DevOps and Workflow Tools
 <div style="display:flex;flex-direction:row;">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" /> 
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Github-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" /> 
 </div>
 
 ## IDEs
