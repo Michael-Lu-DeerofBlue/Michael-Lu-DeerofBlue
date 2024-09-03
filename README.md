@@ -9,10 +9,7 @@
         I'm Michael. A junior at Swarthmore College. I am a full stack developer, focused in backend. I enjoy creative problem solving and system design.<br>
         Feel free to reach out! Open to collaborating on project - Software, Games, Mobile Apps...<br>
     </i><br>
-<!--     <h2 align="center">Request a Service</h2>
-    <p align="center">I build stuff for the web or your local computer, just send me an <a href="mailto:andrewhenin25@gmail.com">E-Mail</a> to see how I can help you.</p><br /> -->
 </p>
-
   <div id="badges">
     <a href="https://www.linkedin.com/in/andrewhenin/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -20,13 +17,9 @@
     <a href="mailto:andrewhenin25@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
-    <a href="https://andrewhenin.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt="personal website">
-    </a>
-
   </div>
   <div>
-    <img src="https://komarev.com/ghpvc/?username=andrewhenin"/>
+    <img src="https://komarev.com/ghpvc/?username=Michael-Lu-DeerofBlue"/>
   </div>
 </div>
 
@@ -63,9 +56,6 @@
   <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" /> 
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /> 
 </div>
-
-## Work Experience
-<img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" />
 
 ## IDEs
 <div style="display:flex;flex-direction:row;">
