@@ -6,13 +6,16 @@
   <p align="center">
     <b>Welcome to my GitHub page!</b><br><br>
     <i>
-        I'm Andrew. I do web and Android, frontend and backend.<br>
-        Open to collaborating on projects.<br>
+        I'm Michael. A junior at Swarthmore College. I am a full stack developer, focused in backend. I enjoy creative problem solving and system design.<br>
+        Feel free to reach out! Open to collaborating on project - Software, Games, Mobile Apps...<br>
     </i><br>
 <!--     <h2 align="center">Request a Service</h2>
     <p align="center">I build stuff for the web or your local computer, just send me an <a href="mailto:andrewhenin25@gmail.com">E-Mail</a> to see how I can help you.</p><br /> -->
 </p>
-  <img width="300px" src="https://giphy.com/gifs/pudgypenguins-work-working-grind-1FbU0sArGktaGGDe99&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
+  <img width="300px" src="https://giphy.com/embed/1FbU0sArGktaGGDe99" alt="Work Grind GIF">
+<iframe src="https://giphy.com/embed/1FbU0sArGktaGGDe99" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p><a href="https://giphy.com/gifs/pudgypenguins-work-working-grind-1FbU0sArGktaGGDe99">via GIPHY</a></p>
+
   <div id="badges">
     <a href="https://www.linkedin.com/in/andrewhenin/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
