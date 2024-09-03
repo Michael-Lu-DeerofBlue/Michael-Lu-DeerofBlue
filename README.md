@@ -6,17 +6,21 @@
   <p align="center">
     <b>Welcome to my GitHub page!</b><br><br>
     <i>
-        I'm Michael. A junior at Swarthmore College. I am a full stack developer, focused in backend.<br>
-      I enjoy creative problem solving and system design.<br>
+        I'm Michael. A junior at Swarthmore College. <br>
+      I am a full stack developer, focused in backend. I enjoy creative problem solving and system design.<br>
         Feel free to reach out! Open to collaborating on project - Software, Games, Mobile Apps...<br>
     </i><br>
-</p>
+    <img src="https://media.giphy.com/media/pudgypenguins-work-working-grind-1FbU0sArGktaGGDe99/giphy.gif" width="250px"/>
+  </p>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/andrewhenin/" target="_blank">
+    <a href="https://www.linkedin.com/in/michael-lu-1529a7260/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:andrewhenin25@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <a href="mailto:deerofblue@outlook.com" target="_blank">
+      <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge"/>
+    </a>
+     <a href="https://youtu.be/k_U6Lt0_pk0" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
     </a>
   </div>
   <div>
