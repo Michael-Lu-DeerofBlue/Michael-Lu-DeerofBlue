@@ -8,7 +8,7 @@
     <i>
         I'm Michael, a junior at Swarthmore College, visting University of Oxford in 2024 <br>
       I am a full stack developer, focused in backend. I enjoy creative problem solving and system design.<br>
-      I am also more than a coder, my role as Game Designer and Project Manager has taught a lot about product design, user experience, leadership...<br>
+      More than a coder, my role as Game Designer and Project Manager has taught me product design, user experience, leadership...<br>
         Feel free to reach out! Open to collaborating on project - Software, Games, Mobile Apps...<br>
     </i><br>
     <img src="https://media.giphy.com/media/1FbU0sArGktaGGDe99/giphy.gif" width="250px"/>
