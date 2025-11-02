@@ -6,7 +6,7 @@
   <p align="center">
     <b>Welcome to my GitHub page!</b><br><br>
     <i>
-        I'm Michael, a junior at Swarthmore College, visting University of Oxford in 2024 <br>
+        I'm Michael, a senior at Swarthmore College <br>
       I am a full stack developer, focused in backend. I enjoy creative problem solving and system design.<br>
       More than a coder, my role as Game Designer and Project Manager has taught me product design, user experience, leadership...<br>
         Feel free to reach out! Open to collaborating on project - Software, Games, Mobile Apps...<br>
